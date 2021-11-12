@@ -1,0 +1,47 @@
+body{
+	width: 980px;  /*la largeur de la feuille*/
+	margin: 0 auto;
+}
+
+header{
+	width:980px;
+	border:1px solid red;
+	font-size:24px;
+	padding:10px; /*la marge interieure*/
+	text-align:center;
+}
+
+.corps{
+	background:rgba(93, 111, 245, 1);
+	color:white;
+	font-size:14px;
+	padding:10px;
+}
+
+.form{
+	width:400px;
+	/*border:1px solid blue;*/
+	padding:5px 10px 5px 10px;
+}
+
+.bouton_envoyer{
+	color:red;
+	padding:10px 20px 10px 20px;
+	border-radius:10px;
+	border:none;
+}
+
+table{
+	/*border:1px solid blue;*/
+}
+
+table td{
+	/*border:1px solid pink;*/
+}
+
+.champ_msg{
+	width:500px;
+	height:150px;
+	padding:5px 10px;
+	
+}
